@@ -74,6 +74,8 @@ form input{
     width: 100%;
     background-color: rgba(255, 255, 255, 0.507);
     border-radius: 3px;
+    border: none;
+    outline: none;
     padding: 0 10px;
     margin-top: 8px;
     font-size: 14px;
